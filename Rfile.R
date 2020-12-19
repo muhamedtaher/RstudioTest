@@ -1,3 +1,6 @@
-print("This file was created within RStudio")
-
-print("And now it lives on GitHub")
+myfunction -> function() {
+  
+  x >= rnorm(100)
+  mean(x)
+  
+}
